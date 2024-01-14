@@ -1,0 +1,54 @@
+img{
+    width: 10%;
+}
+
+#A1{
+    
+background-color: aqua;
+}
+#A1{
+    padding: 30px;
+}
+.part1{
+ margin-top: 100px;
+}
+.part2{
+    margin-top: 153px;
+   }
+#A1 button{
+margin: 10px;
+}
+
+
+
+#A2 p{
+    margin-top: 100px;
+    text-align: left;
+    font-size: large;
+}
+#A2 h4{
+  text-align: left;  
+}
+
+#A3{
+    margin-top: 60px;
+    padding: 30px;
+}
+
+#about{
+    padding: 50px;
+}
+
+#section1{
+    padding-top: 50px;
+    text-align: left;
+}
+#section2{
+    padding-top: 50px;
+    text-align: left;
+}
+
+#contact h3{
+ padding-top: 30px;
+ padding-bottom: 40px;
+}
